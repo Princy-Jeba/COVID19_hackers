@@ -13,3 +13,12 @@ Just update the root_dir path in the code.
 #
 #
 Further scope: The index can be extended to district/zone/ward wise to understand the priority in which they have to be vaccinated. The code can be automated to mail the pie chart daily to the health care officials and administrators.
+#
+#
+Data sources:
+Info on latest covid data (cases and vaccine): https://api.covid19india.org/csv/latest
+Number of beds available: https://cddep.org/wp-content/uploads/2020/04/State-wise-estimates-of-current-beds-and-ventilators_20Apr2020.pdf
+HDI: Wikipidea 
+Population 2020: uidai.gov.in › state-wise-aadhaar-saturation
+
+
