@@ -17,8 +17,11 @@ Further scope: The index can be extended to district/zone/ward wise to understan
 #
 Data sources:
 Info on latest covid data (cases and vaccine): https://api.covid19india.org/csv/latest
+#
 Number of beds available: https://cddep.org/wp-content/uploads/2020/04/State-wise-estimates-of-current-beds-and-ventilators_20Apr2020.pdf
-HDI: Wikipidea 
+#
+HDI: Wikipidea
+#
 Population 2020: uidai.gov.in › state-wise-aadhaar-saturation
 
 
