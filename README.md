@@ -12,5 +12,4 @@ The code automatically takes the latest information on number of covid cases and
 Just update the root_dir path in the code.
 #
 #
-Further scope
-.The index can be extended to district/zone/ward wise to understand the priority in which they have to be vaccinated. The code can be automated to mail the pie chart daily to the health care officials and administrators.
+Further scope: The index can be extended to district/zone/ward wise to understand the priority in which they have to be vaccinated. The code can be automated to mail the pie chart daily to the health care officials and administrators.
