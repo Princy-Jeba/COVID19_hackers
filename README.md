@@ -1,1 +1,3 @@
 # COVID19_hackers
+The goal of the project is to identify the critical states that affected by COVID-19 and need more attention regarding vaccination . The project will consider multiple aspects of vulnerability such as population, COVID-19 cases, ability to afford treatment, health infrastructure availability, etc. This will help the administrators to rightly make arrangements for vaccinating and thus curb the spread of COVID-19.  Also, we will get an insight into which state is more affected, identify the spread of the disease and administer immediate planning of vaccination . A similar study can be extended to country, zone and ward wise analysis for effective planning of administering the vaccination.
+Just update the root_dir path in the code.
