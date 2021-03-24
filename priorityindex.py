@@ -121,7 +121,8 @@ plt.setp(autotexts, size = 8, weight ="bold")
 ax.set_title("Prioritizing Vaccination for States of India",fontdict=None, loc='center', pad=None)
 
 # show plot
+plt.savefig(root_dir+'Piechart_covid.png')
 plt.show()
 
-plt.savefig(root_dir+'Piechart_covid.png')
+
 
